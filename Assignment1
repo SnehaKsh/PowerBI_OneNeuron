@@ -1,0 +1,44 @@
+1] What do you mean by BI? Explain.
+- BI is Business Intelligence which includes business analytics, data mining, data visualization which helps to draw insights from data and make data-driven decisions easy.
+-Business Intelligence includes the processes and methods to collect, store, analyse data which helps in taking decisions for an organization.
+
+2] How Power-BI helps in BI, and how does it help Analysts? Explain.
+
+-Power BI is a data analytics, data visualisation tool which helps to visualize the data and share the insights with the concerned stakeholders and business owners.
+-It helps us to create interactive reports and real-time dashboards.
+-Power BI has multiple visualisations available. 
+-Using Power BI, we can collect data, transform the data, create charts and graphs, create reports and dashboards in various innovative ways and publish these reports and dashboards.
+
+3] Explain Descriptive analytics?
+
+- Descriptive Analysis is the data analysis technique based on the historical data to identify the insights and relationships in the data.
+- It focuses on what happened in the past.
+-e.g. bank statement analysis
+
+ 
+
+4] Explain Predictive analytics?
+
+-Predictive Analysis is the data analysis technique based on the present and historical data to draw predictions about the future.
+-It focuses on what will happen next.
+-e.g. weather forecast
+
+
+5] Explain prescriptive analytics?
+
+-It is analysis done on the raw data.
+-It analyses the data and provides suitable outcomes.
+-It suggests the best possible actions to optimize the business practices.
+-It focuses on what should happen next.
+-e.g. investment decisions
+
+6] Write five real-life questions that Power Bi can solve.
+
+	1. Airport Management Performance dashboard, to keep track of total flights (incoming and outgoing), to check the on-time flights, delayed flights, emergency flights, passenger satisfaction index.
+	2. Customer Analysis, to find out how many customers buy which kind of products, how much money they are ready to spend, the period in month in which they buy the most
+	3. Cancer Analysis Dashboard, to keep the track of patients, track recoveries, to help health agencies to make better decisions, total population affected, to track the mortality with each cancer type
+
+4. HR Analysis Dashboard, using which HRs can track the productivity of employees, active employees, new joiners, attrition rate.
+5. Weather Analysis Dashboard, which can be used to track the changing environment conditions, the factors responsible for global warming, the areas where pollution is the highest/lowest.
+
+
